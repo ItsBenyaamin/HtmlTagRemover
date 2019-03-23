@@ -15,7 +15,9 @@ and the result is :
 
 ### PS:
 `<li>` tags each export in new line
+
 `<img>` tags exported as `//link//`, ofcourse you can change it
+
 `<a>` just text of this tags will export
 
 have fun :)
