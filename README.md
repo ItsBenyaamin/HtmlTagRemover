@@ -29,4 +29,6 @@ and the result is :
 
 also you can change result as you wants `But dont put results in '<>' because they removed by script :D`
 
+`for use this script you must install the scrapy framework`
+
 have fun :)
