@@ -6,8 +6,11 @@ first import the class where ever you want, then:
 ```
 from html_tag_remover import HtmlTagRemover
 
-body = "<body><p>P tag</p><ul><li>LI tag</li></ul></body>"
-HtmlTagRemover(body)
+def result(body):
+    def result(result):
+    print("clear text :\n" + result)
+
+test = HtmlTagRemover(result, "<body><p>P tag</p><ul><li>LI tag</li></ul></body>")
 ```
 and the result is :
 
