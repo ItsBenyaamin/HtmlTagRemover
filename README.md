@@ -16,8 +16,14 @@ and the result is :
 ### PS:
 `<li>` tags each export in new line
 
-`<img>` tags exported as `//link//`, ofcourse you can change it
+`<img>` link of the images are extracted with format : !i https://site.com/images/img.png i!
 
 `<a>` just text of this tags will export
+
+`<blockquote>` extracted as : !b this is blockquote b!
+
+`<script>` if there is script like Aparat.com or Youtube.com or any script from another websites will extracted as (just inside of tag): !s script ... s!
+
+also you can change result as you wants `But dont put results in '<>' because they removed by script :D`
 
 have fun :)
